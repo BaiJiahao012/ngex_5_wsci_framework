@@ -1,0 +1,9 @@
+{
+    "diagnosis": "Your Windows laptop is likely using cached old credentials for the university Wi-Fi after the password change. The phone works because it may have automatically updated its credentials, while the laptop requires manual intervention.",
+    "solution": [
+        "Forget the existing 'eduroam' network in your laptop's Wi-Fi settings.",
+        "Reconnect to 'eduroam' and enter your **new password** when prompted.",
+        "Check if your university account is active and not locked (repeated failed attempts with old passwords may trigger temporary locks).",
+        "Ensure Wi-Fi is enabled on the laptop and verify the username/password match your current credentials."
+    ]
+}
